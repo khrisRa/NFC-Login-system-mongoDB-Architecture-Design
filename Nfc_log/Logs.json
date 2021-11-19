@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "616669c8ec3f7d9ad33de3a9"
+  },
+  "log_id": {
+    "$oid": "616669eeec3f7d9ad33de3aa"
+  },
+  "resp_id": 1,
+  "action": "login",
+  "timestamp": {
+    "$date": "2021-10-13T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "6167459b8d4f980e8baf3429"
+  },
+  "log_id": {
+    "$oid": "616745818d4f980e8baf3428"
+  },
+  "resp_id": 2,
+  "action": "logout",
+  "timestamp": {
+    "$date": "2021-10-13T04:00:00Z"
+  }
+}]

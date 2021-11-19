@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "61666a7dec3f7d9ad33de3ad"
+  },
+  "t_id": 1,
+  "emp_id": 1,
+  "timestamp_in": {
+    "$date": "2021-10-13T04:00:00Z"
+  },
+  "timestamp_out": {
+    "$date": "2021-10-13T04:00:00Z"
+  },
+  "lo_id": 1
+}]

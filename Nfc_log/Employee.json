@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "616667c4ec3f7d9ad33de392"
+  },
+  "emp_id": 1,
+  "u_id": 1,
+  "firstname": "khris",
+  "lastname": "Ramma",
+  "c_id": 1,
+  "a_id": {
+    "$oid": "61666847ec3f7d9ad33de393"
+  },
+  "dept_id": 1
+},{
+  "_id": {
+    "$oid": "61666cd8ec3f7d9ad33de3c4"
+  },
+  "emp_id": 4,
+  "u_id": 4,
+  "firstname": "kok",
+  "lastname": "lorlacroisee",
+  "c_id": 4,
+  "a_id": {
+    "$oid": "616744498d4f980e8baf33fa"
+  },
+  "dept_id": 1
+}]

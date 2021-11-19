@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "61666678ec3f7d9ad33de38b"
+  },
+  "cit_id": 1,
+  "city": "Cambridge",
+  "postal_code": "N3C3N1"
+},{
+  "_id": {
+    "$oid": "616744748d4f980e8baf33fe"
+  },
+  "cit_id": 2,
+  "city": "Cambridge",
+  "postal_code": "N3H0C9"
+}]

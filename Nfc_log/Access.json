@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "61666733ec3f7d9ad33de391"
+  },
+  "access_id": 1,
+  "u_id": 1,
+  "dept_id": 1,
+  "access_level": 1
+},{
+  "_id": {
+    "$oid": "616743638d4f980e8baf33eb"
+  },
+  "access_id": 2,
+  "u_id": 2,
+  "dept_id": 2,
+  "access_level": 2
+}]

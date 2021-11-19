@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "616666e8ec3f7d9ad33de38e"
+  },
+  "dept_id": 1,
+  "dept": "finance"
+},{
+  "_id": {
+    "$oid": "616743c58d4f980e8baf33f3"
+  },
+  "dept_id": 2,
+  "dept": "administration"
+}]

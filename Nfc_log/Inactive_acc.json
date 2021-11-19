@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "61666b4fec3f7d9ad33de3b0"
+  },
+  "in_id": 1,
+  "emp_id": 4,
+  "u_id": 4,
+  "status": "terminated"
+}]

@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "61666570ec3f7d9ad33de387"
+  },
+  "a_id": {
+    "$oid": "616665d2ec3f7d9ad33de388"
+  },
+  "u_id": 1,
+  "address_line": "23 Nora Court",
+  "cit_id": 1
+},{
+  "_id": {
+    "$oid": "616744498d4f980e8baf33fb"
+  },
+  "a_id": {
+    "$oid": "616744498d4f980e8baf33fa"
+  },
+  "u_id": 2,
+  "address_line": "570 Linden Dr unit 15",
+  "cit_id": 2
+}]

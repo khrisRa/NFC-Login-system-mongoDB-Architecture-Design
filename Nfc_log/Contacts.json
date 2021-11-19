@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6166648bec3f7d9ad33de384"
+  },
+  "c_id": 1,
+  "u_id": 1,
+  "email": "khrisnajee.ramma@gmail.com",
+  "phone": 5195906325
+},{
+  "_id": {
+    "$oid": "61666d6fec3f7d9ad33de3cb"
+  },
+  "c_id": 4,
+  "u_id": 4,
+  "email": "kotsorpa@gmail.com",
+  "phone": 5195906325
+}]

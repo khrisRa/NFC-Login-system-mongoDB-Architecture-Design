@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6167401d8d4f980e8baf33c1"
+  },
+  "u_id": 1,
+  "username": "khris432",
+  "password": "Whatever",
+  "timestamp": {
+    "$date": "2021-10-13T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "6167430a8d4f980e8baf33e8"
+  },
+  "u_id": 4,
+  "username": "6mcnuggets",
+  "password": "Whatever@234",
+  "timestamp": {
+    "$date": "2021-10-13T04:00:00Z"
+  }
+},{
+  "_id": {
+    "$oid": "616743a58d4f980e8baf33ee"
+  },
+  "u_id": 2,
+  "username": "pra456",
+  "password": "mopasswordpastoproblem!!",
+  "timestamp": {
+    "$date": "2021-10-13T04:00:00Z"
+  }
+}]
