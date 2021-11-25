@@ -1,0 +1,32 @@
+{
+"n_id": 2,
+"ndef": "816652c8ec3f7d9bd",
+"u_id": 4,
+"username": "6mcnuggets",
+"emp_id": 4,
+"dept": "finance",
+"firstname": "kok",
+ "lastname": "lorlacroisee",
+ "address_line": "570 Linden Dr unit 15",
+ "city": "Cambridge",
+"postal_code": "N3H0C9",
+"email": "kotsorpa@gmail.com",
+"phone": 5195906325,
+"log_id": {
+    "$oid": "616745818d4f980e8baf3428"
+  },
+  "resp_id": 2,
+  "action": "logout",
+  "t_id": 2,
+  "timestamp_in": {
+    "$date": "2021-10-13T04:00:00Z"
+  },
+  "timestamp_out": {
+    "$date": "2021-10-13T04:00:00Z"
+  },
+  "reponse": true,
+  "error": null
+}
+
+"_id": "f9b660b183680facb7f3848621001d8d",
+"_id": "f9b660b183680facb7f3848621003036"

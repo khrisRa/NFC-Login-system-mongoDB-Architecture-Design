@@ -1,0 +1,29 @@
+{
+"n_id": 1,
+"ndef": "716652c8ec3f7d9ad",
+"u_id": 1,
+"username": "khris432",
+"emp_id": 1,
+"dept": "finance",
+"firstname": "khris",
+"lastname": "Ramma",
+"address_line": "23 Nora Court",
+"city": "Cambridge",
+"postal_code": "N3C3N1",
+"email": "khrisnajee.ramma@gmail.com",
+"phone": 5195906325,
+"log_id": {
+    "$oid": "616669eeec3f7d9ad33de3aa"
+  },
+  "resp_id": 1,
+  "action": "login",
+  "t_id": 1,
+  "timestamp_in": {
+    "$date": "2021-10-13T04:00:00Z"
+  },
+  "timestamp_out": {
+    "$date": "2021-10-13T04:00:00Z"
+  },
+  "reponse": true,
+  "error": null
+}
